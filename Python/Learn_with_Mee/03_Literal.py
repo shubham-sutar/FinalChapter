@@ -81,9 +81,3 @@ pi = 3.14
 area_of_circle = pi*(radius*radius)
 print(f"Area of Circle is {area_of_circle}")
 print(type(area_of_circle))
-
-
-
-
-
-
