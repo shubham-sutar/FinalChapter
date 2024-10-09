@@ -146,3 +146,66 @@ my_tuple = (1, 2, 3, 4, 5)
 # my_tuple[0] = 23 # Immutable
 print(my_tuple)
 """
+
+# Tuples
+"""
+num = (12, 23, 45, 67, 89)
+char = ('a', 'b', 'c', 'd')
+floating_point = (12.3, 11.3, 44.6)
+integer_num = (1, 2, 3, 4, 5)
+char_tuple = ('x', 'y', 'z')
+
+new_tuple = (num, char)
+# new_tuple1 = (num, floating_point)
+# new_tuple2 = (num, integer_num)
+# char_tup = (char, char_tuple)
+
+print(new_tuple)
+"""
+
+"""
+N, S, SK, = ("Naruto", "sasuke", "sakura")
+print(N)
+print(S)
+print(SK)
+
+# Search in Tuples
+cities = ("Mumbai", "pune", "Nagpur")
+print("Mumbai" in cities)
+"""
+
+# SET
+# How to create unique list.
+# SET removes duplicate items
+my_list = [12, 22, 21, 21, 22, 12]
+unique_items = set(my_list)
+print(unique_items)
+unique_items_list = list(unique_items)
+print(unique_items_list)
+
+# Union Of Set
+
+set1 = {1, 2, 3}
+set2 = {4, 5, 6}
+set3 = set1.union(set2)
+print(set3)
+
+# Intersection of set (common)
+set1 = {1, 2, 3, 4, 5}
+set2 = {4, 5, 6}
+set3 = set1.intersection(set2)
+print(set3)
+
+# Difference in set
+set3 = set1.difference(set2)
+print(set3)  # 1 2 3
+
+set3 = set2.difference(set1)
+print(set3)  # 6
+
+# is Subset
+set1 = {1, 2, 3, 4, 5, 6}
+set2 = {4, 5, 6}
+
+subset = set2.issubset(set1)
+print(subset)  # True
