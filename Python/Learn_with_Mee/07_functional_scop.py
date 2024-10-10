@@ -123,7 +123,7 @@ for i in my_list:
 print(temp_list)
 """
 
-"""
+
 my_list = [1, 2, 3, 4, 5]
 
 
@@ -134,7 +134,7 @@ double_item = lambda num: num**2
 
 double_list = list(map(double_item, my_list))
 print(double_list)
-"""
+
 
 """
 my_list = [1, 2, 3, 4, 5]
@@ -177,26 +177,31 @@ print("Mumbai" in cities)
 # SET
 # How to create unique list.
 # SET removes duplicate items
+"""
 my_list = [12, 22, 21, 21, 22, 12]
 unique_items = set(my_list)
 print(unique_items)
 unique_items_list = list(unique_items)
 print(unique_items_list)
+"""
 
 # Union Of Set
-
+"""
 set1 = {1, 2, 3}
 set2 = {4, 5, 6}
 set3 = set1.union(set2)
 print(set3)
-
+"""
 # Intersection of set (common)
+"""
 set1 = {1, 2, 3, 4, 5}
 set2 = {4, 5, 6}
 set3 = set1.intersection(set2)
 print(set3)
+"""
 
 # Difference in set
+"""
 set3 = set1.difference(set2)
 print(set3)  # 1 2 3
 
@@ -209,3 +214,4 @@ set2 = {4, 5, 6}
 
 subset = set2.issubset(set1)
 print(subset)  # True
+"""
