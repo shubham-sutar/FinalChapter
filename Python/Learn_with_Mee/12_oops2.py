@@ -150,3 +150,101 @@ child_obj.home()
 """
 
 # Hybrid Inheritance
+# multiple types of inheritance, such as single, multiple, and multilevel inheritance
+"""
+class A:
+    def method_A(self):
+        return "Method A"
+
+
+class B(A):
+    def method_B(self):
+        return "Method B"
+
+
+class C(A):
+    def method_C(self):
+        return "Method C"
+
+
+class D(B, C):
+    def method_D(self):
+        return "method D"
+
+
+obj1 = D()
+print(obj1.method_D())
+print(obj1.method_A())
+print(obj1.method_B())
+print(obj1.method_C())
+"""
+
+
+# Polymorphism
+# polymorphism allows object of
+# different classes to be treated as
+# object of a common superclass.
+
+# Method Overriding - same name in the parent and child of method
+# child will always override the parent functions
+# super means call my parent function
+
+
+class Shape:
+    def area(self):
+        print("Area of Shape")
+
+
+class Rectangle(Shape):
+    def __init__(self, length, width):
+        self.length = length
+        self.width = width
+
+    def area(self):
+        return self.length * self.width
+
+
+class Circle(Shape):
+    def __init__(self, radius):
+        self.radius = radius
+
+    def area(self):
+        super().area()
+        return 3.14 * self.radius * self.radius
+
+
+obj1 = Rectangle(5, 2)
+print(obj1.area())
+
+obj2 = Circle(3)
+print(obj2.area())
+
+# Method Overloading
+# Python does not support method overloading
+# in the traditional sense
+
+# Abstraction
+# Hiding the details and showing the functionality
+
+from abc import ABC, abstractmethod
+
+
+class Animal(ABC):
+    def __init__(self, name):
+        self.name = name
+
+    @abstractmethod
+    def sound(self):
+        pass
+
+
+class Dog(Animal):
+    def sound(self):
+        print("barking")
+
+
+class Cat(Animal)
+    def sound(self):
+        print("myaw, myaw")
+
+        
