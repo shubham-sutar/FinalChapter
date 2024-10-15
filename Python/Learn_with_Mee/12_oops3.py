@@ -179,7 +179,6 @@ print(obj1.method_B())
 print(obj1.method_C())
 """
 
-
 # Polymorphism
 # polymorphism allows object of
 # different classes to be treated as
@@ -189,7 +188,7 @@ print(obj1.method_C())
 # child will always override the parent functions
 # super means call my parent function
 
-
+"""
 class Shape:
     def area(self):
         print("Area of Shape")
@@ -218,14 +217,32 @@ print(obj1.area())
 
 obj2 = Circle(3)
 print(obj2.area())
+"""
 
 # Method Overloading
 # Python does not support method overloading
 # in the traditional sense
+"""
+class MathUtils(object):
+    def add(self, a, b, c=None):
+        return a + b + c
+
+    def add(self, a, c):
+        return a - c
+
+
+obj_add = MathUtils()
+op1 = obj_add.add(2, 3)
+op2 = obj_add.add(3, 4, 5)  # error
+print(op1)
+print(op2) 
+"""
 
 # Abstraction
 # Hiding the details and showing the functionality
+# Incomplete method
 
+"""
 from abc import ABC, abstractmethod
 
 
@@ -243,8 +260,33 @@ class Dog(Animal):
         print("barking")
 
 
-class Cat(Animal)
+class Cat(Animal):
     def sound(self):
         print("myaw, myaw")
 
-        
+
+obj_dog = Dog("rancho")
+obj_dog.sound()
+"""
+"""
+from abc import ABC, abstractmethod
+
+
+class Father(ABC):
+    def __init__(self, name):
+        self.name = name
+
+    @abstractmethod
+    def lone(self):
+        pass
+
+
+class Son(Father):
+    def lone(self):
+        print("had Lone?")
+
+
+obj_son = Son("shubham")
+obj_son.lone()
+"""
+
