@@ -45,7 +45,7 @@ finally:
         print(ne)
 """
 
-
+"""
 class MyCustomException(Exception):
     def __init__(self, msg):
         self.msg = msg
@@ -58,4 +58,4 @@ if withdraw > balance:
     raise MyCustomException("Balance is low")
 else:
     print("remaining Bal", (balance - withdraw))
-
+"""
