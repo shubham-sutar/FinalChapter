@@ -43,7 +43,7 @@ def test_sub4():
 def test_get_single_req_by_id():
     url = "https://restful-booker.herokuapp.com/booking/1"
     response_data = requests.get(url)
-    print(response_data.json())
+    # print(response_data.json())
     assert response_data.status_code == 200
 
 
