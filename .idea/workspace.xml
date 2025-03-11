@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/02_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/my_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/mutable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LocalBoy/01_Basics/01_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/01_hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocalBoy/01_Basics/02_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/02_import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocalBoy/01_Basics/my_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/my_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.01_hello_world.executor": "Run",
+    "Python.02_import.executor": "Run",
     "Python.03_conversion.executor": "Debug",
     "Python.04_Formatting.executor": "Run",
     "Python.05_string_function.executor": "Run",
@@ -46,10 +47,10 @@
     "Python.08_Cond_Loops.executor": "Run",
     "Python.10_factorial.executor": "Run",
     "Python.UserInpute.executor": "Run",
+    "Python.mutable.executor": "Run",
     "Python.my_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.codeium.enabled": "true",
     "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter"
   }
 }]]></component>
@@ -133,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741709995177</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1741712335090</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741712335091</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
