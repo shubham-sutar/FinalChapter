@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/01_hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Python/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,9 @@
     "Python.10_factorial.executor": "Run",
     "Python.UserInpute.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter"
   }
 }]]></component>
   <component name="SharedIndexes">
