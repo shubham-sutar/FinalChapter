@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/01_practice_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/03_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_01/problem01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_01/problem02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_01/problem03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_01/problem04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_01/problem05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/04_variable_datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/05_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/06_type_casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/07_input.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LocalBoy/01_Basics/01_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/01_hello_world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LocalBoy/01_Basics/mutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/mutable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +43,14 @@
     "Python.03_conversion.executor": "Debug",
     "Python.03_list.executor": "Run",
     "Python.04_Formatting.executor": "Run",
+    "Python.04_variable_datatypes.executor": "Run",
+    "Python.05_operators.executor": "Run",
     "Python.05_string_function.executor": "Run",
     "Python.06_List.executor": "Run",
+    "Python.06_type_casting.executor": "Run",
     "Python.07_Cond_Loops.executor": "Run",
     "Python.07_area_of_circle.executor": "Run",
+    "Python.07_input.executor": "Run",
     "Python.08_Cond_Loops.executor": "Run",
     "Python.10_factorial.executor": "Run",
     "Python.UserInpute.executor": "Run",
@@ -164,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741717908932</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1741794827505</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741794827505</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
