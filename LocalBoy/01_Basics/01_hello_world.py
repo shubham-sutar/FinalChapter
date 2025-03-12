@@ -1,8 +1,17 @@
-print("hello world..")
+# Modules, comments & pip
 
 
-def newline(line):
-    print(line)
+# print("hello world..")
 
 
-newline("This is a new line")
+# def newline(line):
+#     print(line)
+#
+#
+# newline("This is a new line")
+
+print("hello world")
+
+"""
+Powered by two engineers
+"""
