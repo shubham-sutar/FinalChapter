@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_03/problem01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_03/problem02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_03/problem03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_03/problem04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_03/problem05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LocalBoy/01_Basics/10_escape_character.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/10_escape_character.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocalBoy/01_Basics/11_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/11_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +53,7 @@
     "Python.09_str_functions.executor": "Run",
     "Python.10_escape_character.executor": "Run",
     "Python.10_factorial.executor": "Run",
+    "Python.11_list.executor": "Run",
     "Python.UserInpute.executor": "Run",
     "Python.mutable.executor": "Run",
     "Python.my_file.executor": "Run",
@@ -203,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741872540486</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1741882370354</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1741882370354</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
