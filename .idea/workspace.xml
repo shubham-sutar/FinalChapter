@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
+      <change afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/12_tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LocalBoy/01_Basics/11_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/11_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LocalBoy/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/Notes.txt" afterDir="false" />
@@ -55,6 +56,7 @@
     "Python.10_escape_character.executor": "Run",
     "Python.10_factorial.executor": "Run",
     "Python.11_list.executor": "Run",
+    "Python.12_tuple.executor": "Run",
     "Python.UserInpute.executor": "Run",
     "Python.mutable.executor": "Run",
     "Python.my_file.executor": "Run",
@@ -216,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741883675397</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1741927878913</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741927878913</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

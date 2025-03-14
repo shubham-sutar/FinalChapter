@@ -35,5 +35,17 @@ cars = ["mustang", "pagani", "ds", "dart", "vulcan"]
 cars.reverse()
 print(cars)
 
+# pop
+cars = ["mustang", "pagani", "ds", "dart", "vulcan"]
+# cars.pop()  # delete item index at last
+deleted_item = cars.pop(0)  # delete item index at 0
+print(deleted_item)
+print(cars)
+
+# remove
+bikes = ["spender", "honda", "yamaha", "bajaj"]
+bikes.remove("bajaj")
+print(bikes)
+
 
 
