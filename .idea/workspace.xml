@@ -7,6 +7,7 @@
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LocalBoy/01_Basics/11_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/01_Basics/11_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocalBoy/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,7 @@
     "Python.problem_03.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
     "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter",
     "settings.editor.selected.configurable": "preferences.editor"
   }
@@ -206,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741882370354</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1741883675397</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883675397</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
