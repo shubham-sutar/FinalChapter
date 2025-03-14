@@ -28,4 +28,10 @@ print(index_of_item)  # 43 at 3 index
 # index_of_item = my_tuple.index(99)
 # print(index_of_item)  # error not in tuple
 
+# membership - check item exists in a tuple or not
+topi = (12, 23, 6, 0, 100, 12, 34, 56, 67, 11)
+checkin = 0 in topi
+print(checkin)  # True
+
+
 
