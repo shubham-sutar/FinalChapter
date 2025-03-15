@@ -1,6 +1,9 @@
 1. Strings are immutable
 2. list is mutable denoted by []
 3. tuple is immutable denoted by ()
+4. dict is mutable denoted by {}, empty_dict = {}
+5. set is mutable denoted by {}, empty_set = set(), set unique.
 
 
-last played 1:58:50
+
+last played 2:53:53
