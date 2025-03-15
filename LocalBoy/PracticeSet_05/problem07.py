@@ -11,5 +11,11 @@ student_dict["shubham"] = input("Enter shubham's lang: ")
 
 print(student_dict)
 
+"""
+output: 
+{'ram': 'marathi', 'sayali': 'hindi', 'shubham': 'english'}
+
+"""
+
 
 
