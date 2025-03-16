@@ -3,7 +3,7 @@
 
 user_post = input("Write a post: ")
 
-if "harry" in user_post:
+if "Harry".lower() in user_post.lower():
     print("Post is talking about harry")
 else:
     print("post is not talking about harry.")
