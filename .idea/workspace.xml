@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/dummy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/file09_one.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/file09_two.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/this.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem08.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem08.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -92,13 +91,19 @@
     "Python.problem08.executor": "Run",
     "Python.problem09.executor": "Run",
     "Python.problem10.executor": "Run",
+    "Python.problem11.executor": "Run",
     "Python.problem_03.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/LocalBoy/PracticeSet_09",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\PracticeSet_09" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -395,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742529877320</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1742552186280</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1742552186280</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
