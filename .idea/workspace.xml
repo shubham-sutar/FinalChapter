@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/project01_Snake/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/02_Advance/03_file_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/FileOperation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/hi_score.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/poems.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +45,7 @@
     "Python.02_import.executor": "Run",
     "Python.02_recurrion.executor": "Run",
     "Python.03_conversion.executor": "Debug",
+    "Python.03_file_operation.executor": "Run",
     "Python.03_list.executor": "Run",
     "Python.04_Formatting.executor": "Run",
     "Python.04_variable_datatypes.executor": "Run",
@@ -83,7 +89,6 @@
     "Python.problem_03.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.codeium.enabled": "true",
     "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
@@ -368,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742324047917</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1742477174107</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1742477174107</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
