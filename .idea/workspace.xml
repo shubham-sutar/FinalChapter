@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/03_Oops/01_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/03_Oops/02_self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/03_Oops/03_constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -431,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742555947813</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1742641283430</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1742641283431</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
