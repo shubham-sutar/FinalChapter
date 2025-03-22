@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/dummy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/file09_one.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/file09_two.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/this.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/03_Oops/01_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/03_Oops/02_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/03_Oops/03_constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem08.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_09/problem08.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shubham-sutar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shubham-sutar/FinalChapter.git",
+    "accountId": "92ebf3ad-b990-41b9-8a95-17daa0163a7a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -44,11 +54,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python.01_class.executor": "Run",
     "Python.01_functions.executor": "Run",
     "Python.01_hello_world.executor": "Run",
     "Python.01_practice_set.executor": "Run",
     "Python.02_import.executor": "Run",
     "Python.02_recurrion.executor": "Run",
+    "Python.02_self.executor": "Run",
+    "Python.03_constructor.executor": "Run",
     "Python.03_conversion.executor": "Debug",
     "Python.03_file_operation.executor": "Run",
     "Python.03_list.executor": "Run",
@@ -95,12 +108,14 @@
     "Python.problem_03.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/LocalBoy/PracticeSet_09",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/LocalBoy/PracticeSet_10",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\PracticeSet_10" />
+      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\03_Oops" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\PracticeSet_09" />
     </key>
   </component>
@@ -408,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742552186280</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1742555947813</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1742555947813</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
