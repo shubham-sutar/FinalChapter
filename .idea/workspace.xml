@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/PracticeSet_10/problem06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/03_Oops/04_inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shubham-sutar"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shubham-sutar&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shubham-sutar/FinalChapter.git",
-    "accountId": "92ebf3ad-b990-41b9-8a95-17daa0163a7a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shubham-sutar/FinalChapter.git&quot;,
+    &quot;accountId&quot;: &quot;92ebf3ad-b990-41b9-8a95-17daa0163a7a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -61,6 +60,7 @@
     "Python.03_file_operation.executor": "Run",
     "Python.03_list.executor": "Run",
     "Python.04_Formatting.executor": "Run",
+    "Python.04_inheritance.executor": "Run",
     "Python.04_variable_datatypes.executor": "Run",
     "Python.05_operators.executor": "Run",
     "Python.05_string_function.executor": "Run",
@@ -103,6 +103,7 @@
     "Python.problem_03.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
     "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/LocalBoy/PracticeSet_10",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
@@ -434,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742641283431</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1742645840200</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1742645840276</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
