@@ -74,7 +74,7 @@ obj = Dog("rock", 1001)
 obj.bark()
 """
 
-
+"""
 class Employee:
     name = None
     id = None
@@ -94,3 +94,45 @@ class Employee:
 obj = Employee("sarika", 1001, 45, 45000)
 output = obj.show()
 print(output)
+"""
+
+"""
+class Person:
+    name = "amit"
+    age = None
+
+    def display(self, age):
+        self.age = age
+        id = 1001
+        print("Im Simple Method")
+        print("Hi", self.age)
+        print(id)
+
+
+obj = Person()
+obj.display(22)
+"""
+
+"""
+class Car:
+    name = None
+    car_no = None
+    fuel = None
+    made_in = None
+
+    def __init__(self, name, car_no, fuel, made_in):
+        self.name = name
+        self.car_no = car_no
+        self.fuel = fuel
+        self.made_in = made_in
+
+    def display(self):
+        print(f"The car name is : {self.name}")
+        print(f"car no : {self.car_no}")
+        print(f"car fuel : {self.fuel}")
+        print(f"car is made in : {self.made_in}")
+
+
+obj = Car("camero", "1001", "disel", "Japan")
+obj.display()
+"""
