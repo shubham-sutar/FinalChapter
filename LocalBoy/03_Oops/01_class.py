@@ -7,6 +7,6 @@ class Employee:
 
 
 obj = Employee()
-# obj.name = "sayali"  # instance attribute01_class.py
+obj.name = "sayali"  # instance attribute01_class.py
 new_user = obj.name, obj.language, obj.salary
 print(f"--------- New Employee Informaion ---------\n{new_user}")

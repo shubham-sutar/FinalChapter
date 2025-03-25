@@ -27,11 +27,12 @@ class Person:
 surya = Person()
 surya.name = "Surya Prakash"
 surya.talk()
+surya.sleep("surya")
 
 sayali = Person()
 sayali.name = "Sayali Sutar"
 sayali.walk()
-"""
+
 
 # Constructor
 """
@@ -54,7 +55,7 @@ class Dog:
 dog1 = Dog()
 dog1.name = "jaymes"
 print(dog1.name)
-
+"""
 # dog2 = Dog()
 
 # obj = Dog()
@@ -83,7 +84,7 @@ print(f"{Emp_obj1.name} {Emp_obj1.id} {Emp_obj1.pin}")
 Emp_obj1.salary()
 """
 
-
+"""
 class Calc:
 
     def sum(self, num1, num2):
@@ -106,3 +107,4 @@ print(output)
 
 output = obj1.div(120, 20)  # Division
 print(output)
+"""
