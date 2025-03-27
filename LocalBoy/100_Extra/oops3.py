@@ -8,6 +8,10 @@ class Father:
     def father_method(self):
         return "father method"
 
+    @staticmethod
+    def stats():
+        print("hi father.")
+
 
 class Child(Father):
 
@@ -21,3 +25,5 @@ print(output)
 
 output1 = obj.father_method()
 print(output1)
+
+Father.stats()  # call the static method
