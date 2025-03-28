@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/100_Extra/constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/project02_prft_guess/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LocalBoy/100_Extra/oops3.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/100_Extra/oops3.py" afterDir="false" />
     </list>
@@ -489,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743010255045</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1743068142297</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1743068142298</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
