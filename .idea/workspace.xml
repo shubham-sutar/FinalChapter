@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LocalBoy/NewChapter/all.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocalBoy/NewChapter/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,20 +119,21 @@
     "Python.problem10.executor": "Run",
     "Python.problem11.executor": "Run",
     "Python.problem_03.executor": "Run",
+    "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/Walstar/01_Basics",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/LocalBoy/NewChapter",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\NewChapter" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\01_Basics" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\100_Extra" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\PracticeSet_11" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\PracticeSet_10" />
-      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\03_Oops" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter" />
@@ -153,14 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726283118243</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Code Added">
-      <option name="closed" value="true" />
-      <created>1726289894725</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1726289894725</updated>
     </task>
     <task id="LOCAL-00003" summary="Code Added">
       <option name="closed" value="true" />
@@ -546,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759326476994</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1759334624246</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1759334624247</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
