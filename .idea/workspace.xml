@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/02_comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/03_keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/04_data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/05_types_of.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Walstar/01_Basics/01_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/Walstar/01_Basics/01_hello_world.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +64,13 @@
     "Python.03_keywords.executor": "Run",
     "Python.03_list.executor": "Run",
     "Python.04_Formatting.executor": "Run",
+    "Python.04_data_types.executor": "Run",
     "Python.04_inheritance.executor": "Run",
     "Python.04_variable_datatypes.executor": "Run",
     "Python.05_mult_inheritance.executor": "Run",
     "Python.05_operators.executor": "Run",
     "Python.05_string_function.executor": "Run",
+    "Python.05_types_of.executor": "Run",
     "Python.06_List.executor": "Run",
     "Python.06_multilevel_inheritance.executor": "Run",
     "Python.06_type_casting.executor": "Run",
@@ -104,6 +106,7 @@
     "Python.oops.executor": "Run",
     "Python.oops2.executor": "Run",
     "Python.oops3.executor": "Run",
+    "Python.pdf_to_images.executor": "Run",
     "Python.poly.executor": "Run",
     "Python.problem01.executor": "Run",
     "Python.problem02.executor": "Run",
@@ -131,6 +134,9 @@
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\PracticeSet_11" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\PracticeSet_10" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\03_Oops" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -533,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750429361392</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1750431420662</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1750431420662</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
