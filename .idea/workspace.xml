@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/Dict&amp;Set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LocalBoy/NewChapter/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocalBoy/NewChapter/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/tuples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +97,7 @@
     "Python.19_for_with_else.executor": "Run",
     "Python.20_break_&_continue.executor": "Run",
     "Python.21_pass.executor": "Run",
+    "Python.Dict&Set.executor": "Run",
     "Python.UserInpute.executor": "Run",
     "Python.all.executor": "Run",
     "Python.constructor.executor": "Run",
@@ -122,6 +122,7 @@
     "Python.problem10.executor": "Run",
     "Python.problem11.executor": "Run",
     "Python.problem_03.executor": "Run",
+    "Python.tuples.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -157,14 +158,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726283118243</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Code Added">
-      <option name="closed" value="true" />
-      <created>1726309995141</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1726309995141</updated>
     </task>
     <task id="LOCAL-00006" summary="Code Added">
       <option name="closed" value="true" />
@@ -550,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759387664349</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1759402765453</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1759402765453</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
