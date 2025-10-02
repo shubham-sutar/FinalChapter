@@ -39,4 +39,57 @@ print(f"union of set is {union_set}")
 
 intersection_set = num.intersection(names)
 print(f"intersection of set is {intersection_set}")
+
+
+trans_dict = {
+    "kutta": "dog",
+    "madad": "help",
+    "chashma": "glasses"
+}
+
+print(trans_dict)
+
+num = set()
+user_inp1 = int(input("Enter a num: "))
+num.add(user_inp1)
+user_inp2 = int(input("Enter a num: "))
+num.add(user_inp2)
+user_inp3 = int(input("Enter a num: "))
+num.add(user_inp3)
+
+print(f"set is {num}")
+
+
+unique_set = {18, "18"}
+print(unique_set)
+
+
+s = set()
+s.add(20)
+s.add('20')
+s.add(20.0)
+print(len(s))
 """
+
+dicto = {}
+name = input("enter name:")
+lang = input("enter lang:")
+
+dicto.update({name: lang})
+
+print(dicto)
+
+# 3:09:49
+
+
+
+
+
+
+
+
+
+
+
+
+
