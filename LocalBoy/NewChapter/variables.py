@@ -94,6 +94,15 @@ print(name[:4])   # shub
 print(name[1:])   # hubhamsutar
 print(name[1:5])  # hubh
 
+numbers = "0123456789"
+print(numbers[1:7:3])
+# first solve 1:7 = 1 2 3 4 5 6
+# solve 3 : 14
+
+name = "Shubham"
+print(name[2:6:3])
+
+
 
 
 

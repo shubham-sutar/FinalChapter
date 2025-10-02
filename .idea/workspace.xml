@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
+      <change afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LocalBoy/NewChapter/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/variables.py" afterDir="false" />
     </list>
@@ -99,6 +101,7 @@
     "Python.UserInpute.executor": "Run",
     "Python.all.executor": "Run",
     "Python.constructor.executor": "Run",
+    "Python.function.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mutable.executor": "Run",
     "Python.my_file.executor": "Run",
@@ -154,22 +157,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726283118243</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Code Added">
-      <option name="closed" value="true" />
-      <created>1726293205657</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1726293205657</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Code Added">
-      <option name="closed" value="true" />
-      <created>1726299228946</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1726299228946</updated>
     </task>
     <task id="LOCAL-00005" summary="Code Added">
       <option name="closed" value="true" />
@@ -547,7 +534,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759334624247</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1759341023397</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1759341023397</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1759387664348</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1759387664349</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
