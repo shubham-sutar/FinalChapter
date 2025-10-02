@@ -66,8 +66,46 @@ print(f"The Average of numbers is {avg} ")
 num = int(input("Enter a number: "))
 sqr = num**2
 print(f"The sqr of number enter by user is {sqr}")
-"""
+
 
 # 1:22
+
+# String
+name = "Shubham Sutar"
+gf = "sayali"
+print(f"my name is {name} and my girlfriend name is {gf}")
+
+name = "Sayali"
+bf = "shubham"
+print(f"my name is {name} and my boyfriend name is {bf}")
+"""
+
+
+name = "ShubhamSutar"
+print(name[0:3])
+
+print(name[-4:-1])
+
+# 0    1  2  3 4 5 6 7 8 9 10 11
+# S    h  u  b h a m s u t a   r
+# -12  11 10 9 8 7 6 5 4 3 2  -1
+
+print(name[:4])   # shub
+print(name[1:])   # hubhamsutar
+print(name[1:5])  # hubh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
