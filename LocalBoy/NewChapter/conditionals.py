@@ -30,7 +30,7 @@ if (msg1 in message) or (msg2 in message) or (msg3 in message) or (msg4 in messa
     print("Spam msg detected")
 else:
     print("msg not under spam")
-"""
+
 
 username = input("Enter the username: ")
 
@@ -38,3 +38,4 @@ if (len(username)) < 10:
     print("username requires more than 10 letters")
 else:
     print("All is well")
+"""
