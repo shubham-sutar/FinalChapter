@@ -69,7 +69,7 @@ s.add(20)
 s.add('20')
 s.add(20.0)
 print(len(s))
-"""
+
 
 dicto = {}
 name = input("enter name:")
@@ -81,7 +81,7 @@ print(dicto)
 
 # 3:09:49
 
-
+"""
 
 
 
