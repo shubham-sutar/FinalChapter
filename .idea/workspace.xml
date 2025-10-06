@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change beforePath="$PROJECT_DIR$/LocalBoy/NewChapter/conditionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocalBoy/NewChapter/conditionals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set1/01_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set1/02_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set1/03_problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walstar/01_Basics/01_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/Walstar/01_Basics/01_hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walstar/01_Basics/04_data_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Walstar/01_Basics/04_data_types.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +52,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Doctests in 02_problem.executor": "Run",
     "Python.01_class.executor": "Run",
     "Python.01_functions.executor": "Run",
     "Python.01_hello_world.executor": "Run",
     "Python.01_practice_set.executor": "Run",
+    "Python.01_problem.executor": "Run",
     "Python.02_comments.executor": "Run",
     "Python.02_import.executor": "Run",
     "Python.02_recurrion.executor": "Run",
@@ -60,6 +67,7 @@
     "Python.03_file_operation.executor": "Run",
     "Python.03_keywords.executor": "Run",
     "Python.03_list.executor": "Run",
+    "Python.03_problem.executor": "Run",
     "Python.04_Formatting.executor": "Run",
     "Python.04_data_types.executor": "Run",
     "Python.04_inheritance.executor": "Run",
@@ -126,17 +134,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/LocalBoy/NewChapter",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/Walstar/Practice Set1",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\Practice Set1" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\NewChapter" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\01_Basics" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\100_Extra" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\PracticeSet_11" />
-      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\PracticeSet_10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter" />
@@ -157,14 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726283118243</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Code Added">
-      <option name="closed" value="true" />
-      <created>1741794827505</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1741794827505</updated>
     </task>
     <task id="LOCAL-00012" summary="Code Added">
       <option name="closed" value="true" />
@@ -550,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759511499940</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1759511561790</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1759511561791</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
