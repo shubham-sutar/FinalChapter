@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/06_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/07_type_of.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set2/04_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set2/05_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set2/06_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/08_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/09_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/10_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/11_Set&amp;Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set3/01_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set3/02_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set3/03_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set3/04_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set4/01_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set4/02_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set4/03_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set4/04_problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,13 +98,17 @@
     "Python.07_type_of.executor": "Run",
     "Python.08_Cond_Loops.executor": "Run",
     "Python.08_class_methods.executor": "Run",
+    "Python.08_string.executor": "Run",
     "Python.08_strings.executor": "Run",
+    "Python.09_list.executor": "Run",
     "Python.09_property_decoraters.executor": "Run",
     "Python.09_str_functions.executor": "Run",
     "Python.10_escape_character.executor": "Run",
     "Python.10_factorial.executor": "Run",
     "Python.10_oops1.executor": "Run",
     "Python.10_operator_overloading.executor": "Run",
+    "Python.10_tuple.executor": "Run",
+    "Python.11_Set&Dict.executor": "Run",
     "Python.11_list.executor": "Run",
     "Python.12_tuple.executor": "Run",
     "Python.13_dict.executor": "Run",
@@ -140,17 +151,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/Walstar/Practice Set2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/Walstar/01_Basics",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\01_Basics" />
+      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\Practice Set4" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\Practice Set2" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar" />
-      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\01_Basics" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\Practice Set1" />
-      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\LocalBoy\NewChapter" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter" />
@@ -171,14 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726283118243</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Code Added">
-      <option name="closed" value="true" />
-      <created>1741799938537</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1741799938537</updated>
     </task>
     <task id="LOCAL-00014" summary="Code Added">
       <option name="closed" value="true" />
@@ -564,7 +567,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759762529499</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1759769227414</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1759769227414</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
