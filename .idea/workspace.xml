@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94a300e-eb11-42cf-bd0c-760965bf1518" name="Changes" comment="Code Added">
-      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/08_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/09_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/10_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/11_Set&amp;Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set3/01_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set3/02_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set3/03_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set3/04_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set4/01_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set4/02_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set4/03_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walstar/Practice Set4/04_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/01_Basics/12_conditionals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice_Set5/01_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice_Set5/02_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walstar/Practice_Set5/03_problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +102,7 @@
     "Python.10_tuple.executor": "Run",
     "Python.11_Set&Dict.executor": "Run",
     "Python.11_list.executor": "Run",
+    "Python.12_conditionals.executor": "Run",
     "Python.12_tuple.executor": "Run",
     "Python.13_dict.executor": "Run",
     "Python.14_sets.executor": "Run",
@@ -151,17 +144,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/Walstar/01_Basics",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/FinalChapter/Walstar/Practice_Set5",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\Practice_Set5" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\01_Basics" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\Practice Set4" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\Practice Set2" />
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar" />
-      <recent name="C:\Users\Admin\PycharmProjects\FinalChapter\Walstar\Practice Set1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\PycharmProjects\FinalChapter" />
@@ -182,14 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726283118243</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Code Added">
-      <option name="closed" value="true" />
-      <created>1741872540486</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1741872540486</updated>
     </task>
     <task id="LOCAL-00015" summary="Code Added">
       <option name="closed" value="true" />
@@ -575,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759769227414</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Code Added">
+      <option name="closed" value="true" />
+      <created>1759856356621</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1759856356638</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
